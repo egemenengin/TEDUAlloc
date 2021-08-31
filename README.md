@@ -1,7 +1,7 @@
 # TEDUAlloc
 TEDU Alloc C Project
 # Design Overview
-In the main file all functions are tested.
+All functionalities are tested in main.
 For explaining what we have done in this homework and code part, we create data blocks
 in order to make linked list. With the help of using linked list, we benefit its structure to
 implement what we want such as previous and next ones. Also, with using linked list, we hold
